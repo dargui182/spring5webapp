@@ -24,4 +24,5 @@ public class BookController {
 
         return "books/list";
     }
+
 }
